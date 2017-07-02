@@ -19,14 +19,14 @@ h2{
 }
 
 .h1{
-	font-size: 18.60vw;
+	font-size: 8.60vw;
 	line-height: 1;
 	letter-spacing: 0;
 	font-family: 'Arial', sans-serif;
 }
 
 body{
-	height: 1000px;
+	height: 700px;
 	background:white;
 	background: -webkit-linear-gradient(left top, #C5796D, #DBE6F6); /* Safari 5.1-6.0 */
 	background: -o-linear-gradient(bottom right, #C5796D, #DBE6F6); /* Opera 11.1-12.0 */
