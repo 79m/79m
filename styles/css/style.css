@@ -10,7 +10,7 @@ h2{
 	padding-left: 50px;
 }
 
-initial-gradient{
+#initial-gradient{
 	height: 2000px;
 	background:white;
 	background: -webkit-linear-gradient(left top, #C5796D, #DBE6F6); /* Safari 5.1-6.0 */
