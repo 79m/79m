@@ -1,37 +1,41 @@
 h1{
 	color: #0f3168;
 	font-family: 'Roboto', sans-serif;
-	padding-left: 50px;
+	font-size: 4.00vw;
+	padding-left: 10vw;
 }
 h2{
 	color:black;
 	font-family: 'Roboto', sans-serif;
+	font-size: 4.00vw;
 	font-weight: 300;
-	padding-left: 50px;
+	padding-left: 10vw;
 }
 
 .Header .Title-main{
 	position: relative;
-	top: -0.1vw;
+	top: 2vw;
 }
 .blue{
 	color: #0f3168;
 }
 
 .h1{
-	font-size: 8.60vw;
+	font-size: 12.0vw;
 	line-height: 1;
 	letter-spacing: 0;
 	font-family: 'Arial', sans-serif;
 	font-weight: 700;
-	padding-left: 50px;
+	padding-left: 10vw;
 }
 
 body{
 	height: 700px;
-	background:white;
-	background: -webkit-linear-gradient(left top, #C5796D, #DBE6F6); /* Safari 5.1-6.0 */
-	background: -o-linear-gradient(bottom right, #C5796D, #DBE6F6); /* Opera 11.1-12.0 */
-	background: -moz-linear-gradient(bottom right, #C5796D, #DBE6F6); /*Firefox3.6-15*/
-	background: linear-gradient(to bottom right, #C5796D, #DBE6F6); /* the rest! */
+	/*background:white; /*sorry IE <=9 */
+	/*background: -webkit-linear-gradient(left top, #C5796D, #DBE6F6); /* Safari 5.1-6.0 */
+	/*background: -o-linear-gradient(bottom right, #C5796D, #DBE6F6); /* Opera 11.1-12.0 */
+	/*background: -moz-linear-gradient(bottom right, #C5796D, #DBE6F6); /*Firefox3.6-15*/
+	/*background: linear-gradient(to bottom right, #C5796D, #DBE6F6); /* the rest! */ 
+	background-image: url(../../images.background.png);
+	background-repeat: repeat-x;
 }
