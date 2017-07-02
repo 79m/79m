@@ -12,6 +12,7 @@ h2{
 
 #initial-gradient{
 	height: 2000px;
+	padding-left: -50px;
 	background:white;
 	background: -webkit-linear-gradient(left top, #C5796D, #DBE6F6); /* Safari 5.1-6.0 */
 	background: -o-linear-gradient(bottom right, #C5796D, #DBE6F6); /* Opera 11.1-12.0 */
