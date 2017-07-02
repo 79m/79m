@@ -1,9 +1,11 @@
 h1{
 	color: red;
 	font-family: 'Roboto', sans-serif;
+	padding-right: 50em;
 }
 h2{
 	color:black;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 300;
+	padding-right: 50em;
 }
