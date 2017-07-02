@@ -1,8 +1,9 @@
 h1{
 	color: red;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
 h2{
 	color:black;
 	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
 }
