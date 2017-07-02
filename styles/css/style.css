@@ -9,3 +9,12 @@ h2{
 	font-weight: 300;
 	padding-left: 50px;
 }
+
+initial-gradient{
+	height: 2000px;
+	background:white;
+	background: -webkit-linear-gradient(left top, #C5796D, #DBE6F6); /* Safari 5.1-6.0 */
+	background: -o-linear-gradient(bottom right, #C5796D, #DBE6F6); /* Opera 11.1-12.0 */
+	background: -moz-linear-gradient(bottom right, #C5796D, #DBE6F6); /*Firefox3.6-15*/
+	background: linear-gradient(to bottom right, #C5796D, #DBE6F6); /* the rest! */
+}
