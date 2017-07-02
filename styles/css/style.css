@@ -10,9 +10,22 @@ h2{
 	padding-left: 50px;
 }
 
-#initial-gradient{
-	height: 2000px;
-	padding-left: -50px;
+.Header .Title-main{
+	position: relative;
+	top: -0.1vw;
+}
+.blue{
+	color: #0f3168;
+}
+
+.h1{
+	font-size: 18.60vw;
+	line-height: 1;
+	letter-spacing: 0;
+}
+
+body{
+	height: 1000px;
 	background:white;
 	background: -webkit-linear-gradient(left top, #C5796D, #DBE6F6); /* Safari 5.1-6.0 */
 	background: -o-linear-gradient(bottom right, #C5796D, #DBE6F6); /* Opera 11.1-12.0 */
