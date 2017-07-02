@@ -1,5 +1,5 @@
 h1{
-	color: red;
+	color: #0f3168;
 	font-family: 'Roboto', sans-serif;
 	padding-left: 50px;
 }
@@ -22,6 +22,7 @@ h2{
 	font-size: 18.60vw;
 	line-height: 1;
 	letter-spacing: 0;
+	font-family: 'Arial', sans-serif;
 }
 
 body{
