@@ -2,22 +2,22 @@ h1{
 	color: #0f3168;
 	font-family: 'Roboto', sans-serif;
 	font-size: 1.75vw;
-	padding-left: 10vw;
+	padding-left: 17.5vw;
 }
 h2{
 	color:black;
 	font-family: 'Roboto', sans-serif;
-	font-size: 4.00vw;
+	font-size: 2vw;
 	font-weight: 300;
-	padding-left: 10vw;
+	padding-left: 17.5vw;
 }
 
 .Header .Title-main{
 	position: relative;
 	top: 2vw;
 }
-.blue{
-	color: #0f3168;
+.red{
+	color: #f91104;
 }
 
 .h1{
@@ -26,7 +26,7 @@ h2{
 	letter-spacing: 0;
 	font-family: 'Arial', sans-serif;
 	font-weight: 700;
-	padding-left: 10vw;
+	padding-left: 17.5vw;
 }
 
 body{
