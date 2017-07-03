@@ -10,6 +10,7 @@ h2{
 	font-size: 2vw;
 	font-weight: 300;
 	padding-left: 17.5vw;
+	padding-top: 0.1vw;
 }
 
 .Header .Title-main{
@@ -36,6 +37,6 @@ body{
 	/*background: -o-linear-gradient(bottom right, #C5796D, #DBE6F6); /* Opera 11.1-12.0 */
 	/*background: -moz-linear-gradient(bottom right, #C5796D, #DBE6F6); /*Firefox3.6-15*/
 	/*background: linear-gradient(to bottom right, #C5796D, #DBE6F6); /* the rest! */ 
-	background-image: url(../images.background.png);
+	background-image: url(C:\Users\liutm\Documents\Projects\79m\79m\images.background.png);
 	background-repeat: repeat-x;
 }
