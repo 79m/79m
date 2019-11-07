@@ -1,5 +1,5 @@
 h1{
-	color: #0f3168;
+	color: #0f3168; /*navy blue */
 	font-family: 'Roboto', sans-serif;
 	font-size: 1.75vw;
 	padding-left: 17.5vw;
@@ -22,7 +22,7 @@ h2{
 }
 
 .h1{
-	font-size: 6vw;
+	font-size: 3.2vw;
 	line-height: 1;
 	letter-spacing: 0;
 	font-family: 'Arial', sans-serif;

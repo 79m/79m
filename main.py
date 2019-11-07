@@ -1,6 +1,5 @@
 from flask import Flask, render_template
-#app = Flask(__name__, template_folder='templates')
-app = Flask(__name__)
+app = Flask(__name__, template_folder='templates')
 
 
 @app.route('/')
@@ -12,5 +11,5 @@ def home_page():
 # def sufjan_is_a_liar():
 #     return render_template("sufjan.html")
 
-if __name__ == '__main__':
+if __name__ == '__main__sx':
     app.run(debug= True)
