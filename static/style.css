@@ -6,9 +6,9 @@ h1{
 }
 h2{
 	color:black;
-	font-family: 'Roboto', sans-serif;
-	font-size: 2vw;
-	font-weight: 300;
+	font-family: 'Roboto Mono';
+	font-size: 1.5vw;
+	font-weight: 375;
 	padding-left: 17.5vw;
 	padding-top: 1.25vw;
 }
@@ -22,11 +22,11 @@ h2{
 }
 
 .h1{
-	font-size: 3.2vw;
+	font-size: 2.7vw;
 	line-height: 1;
 	letter-spacing: 0;
-	font-family: 'Arial', sans-serif;
-	font-weight: 700;
+	font-family: 'Cardo', sans-serif;
+	font-weight: 800;
 	padding-left: 17.5vw;
 }
 
@@ -36,7 +36,8 @@ body{
 	/*background: -webkit-linear-gradient(left top, #C5796D, #DBE6F6); /* Safari 5.1-6.0 */
 	/*background: -o-linear-gradient(bottom right, #C5796D, #DBE6F6); /* Opera 11.1-12.0 */
 	/*background: -moz-linear-gradient(bottom right, #C5796D, #DBE6F6); /*Firefox3.6-15*/
-	/*background: linear-gradient(to bottom right, #C5796D, #DBE6F6); /* the rest! */ 
+	/*background: linear-gradient(to bottom right, #C5796D, #DBE6F6); /* the rest! */
+	background-color: #f7edeb;
 	background-image: url(../../images.background.png);
 	background-repeat: repeat-x;
 }
